@@ -1,0 +1,2 @@
+# Sample_Room_Planning
+This project focuses on optimizing sample room planning in the garment industry by assigning sample orders to sewing modules efficiently. The study is based on a real-world case from the apparel industry and aims to reduce manual planning effort and improve operational efficiency. The problem is formulated as a linear programming transportation problem and solved using R. A Shiny web application is developed to visualize and interact with the results.
